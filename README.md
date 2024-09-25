@@ -7,4 +7,4 @@
 ### Getestet mit folgenden macOS Versionen:
 - macOS 15 (wird derzeit getestet)
 
-Dieses EFI ist noch in Entwicklung/noch nicht getestet
+## Dieses EFI ist noch in Entwicklung/noch nicht getestet
